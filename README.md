@@ -4,7 +4,7 @@ I study Computer Science in the Faculty of Information Technology at **Industria
 
 ## Featured projects
 
-- [CampusFlow — Study Planner](https://github.com/PlictorNguyen/campusflow-study-planner) — a responsive task and study planner built with vanilla HTML, CSS, and JavaScript. It includes a 25/5 Pomodoro timer, task filters, due dates, progress summaries, dark mode, and browser-based persistence.
+- [CampusFlow — Study Planner](https://github.com/PlictorNguyen/campusflow-study-planner) — a responsive task and study planner built with vanilla HTML, CSS, and JavaScript. It includes an English/Vietnamese language switch, a 25/5 Pomodoro timer, task filters, progress summaries, dark mode, and browser-based persistence.
 - [E-commerce Storefront](https://github.com/PlictorNguyen/24-23663831-TaNguyenPhuc) — a multi-page front-end website with product, cart, checkout, account, and information pages.
 
 ## Technologies used
@@ -17,4 +17,4 @@ HTML · CSS · JavaScript
 
 Mình là sinh viên chuyên ngành **Khoa học máy tính**, Khoa Công nghệ thông tin, **Trường Đại học Công nghiệp TP.HCM (IUH)**. Mình xây dựng và chia sẻ các dự án web thực hành trên GitHub.
 
-Dự án nổi bật: [CampusFlow — Công cụ lên kế hoạch học tập](https://github.com/PlictorNguyen/campusflow-study-planner), hỗ trợ quản lý công việc, theo dõi tiến độ và sử dụng bộ hẹn giờ Pomodoro 25 phút tập trung, 5 phút nghỉ.
+Dự án nổi bật: [CampusFlow — Công cụ lên kế hoạch học tập](https://github.com/PlictorNguyen/campusflow-study-planner), hỗ trợ quản lý công việc, theo dõi tiến độ, chuyển đổi giao diện tiếng Việt/tiếng Anh và sử dụng bộ hẹn giờ Pomodoro 25 phút tập trung, 5 phút nghỉ.
